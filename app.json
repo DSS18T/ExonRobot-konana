@@ -30,7 +30,7 @@
          },
          "plan": "heroku-postgresql:mini"
       }
-   ],   
+   ],
    "env": {
       "API_ID": {
          "description": "ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ my.telegram.org/apps.",
